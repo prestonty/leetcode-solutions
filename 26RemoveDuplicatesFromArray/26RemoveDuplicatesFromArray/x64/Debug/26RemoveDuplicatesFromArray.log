@@ -1,0 +1,17 @@
+﻿  26RemoveDuplicatesFromArray.cpp
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(16,26): error C2061: syntax error: identifier 'vector'
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(17,9): error C2065: 'unordered_map': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(17,23): error C2062: type 'int' unexpected
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(18,29): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(20,13): error C2065: 'umap': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(20,18): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(24,29): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(26,13): error C2065: 'umap': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(26,18): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(27,17): error C2065: 'umap': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(27,22): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(28,17): error C2065: 'umap': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(28,22): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(29,17): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(29,28): error C2065: 'nums': undeclared identifier
+C:\Users\prest\Documents\Computer Programming pluto\Leetcode\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray\26RemoveDuplicatesFromArray.cpp(35,16): error C2065: 'nums': undeclared identifier

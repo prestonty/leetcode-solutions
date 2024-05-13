@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prest\\Documents\\Computer Programming pluto\\Leetcode\\28FindIndexFirstOccurrenceInString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FC2780-23C5-4168-9A56-6AACD4AFB245}|28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.vcxproj|C:\\Users\\prest\\Documents\\Computer Programming pluto\\Leetcode\\28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4FC2780-23C5-4168-9A56-6AACD4AFB245}|28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.vcxproj|solutionrelative:28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "28FindIndexFirstOccurrenceInString.cpp",
+              "DocumentMoniker": "C:\\Users\\prest\\Documents\\Computer Programming pluto\\Leetcode\\28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.cpp",
+              "RelativeDocumentMoniker": "28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.cpp",
+              "ToolTip": "C:\\Users\\prest\\Documents\\Computer Programming pluto\\Leetcode\\28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.cpp",
+              "RelativeToolTip": "28FindIndexFirstOccurrenceInString\\28FindIndexFirstOccurrenceInString.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T14:27:39.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
