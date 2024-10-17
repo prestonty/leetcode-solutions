@@ -1,0 +1,31 @@
+class Solution {
+public:
+    bool isPalindrome(string s) {
+        const string VALID_CHAR = "abcdefghijklmnopqrstuvwxyz0123456789";
+        int currentIndex = 0;
+        for(int i = 0; i < s.length(); i++) {
+
+            cout << "BEFORE: " << s[i] << " " << i << endl;
+            s[i] = (char) tolower(s[i]); // make it lowercase
+            // erase while its still invalid
+            while(i < s.length() && !VALID_CHAR.contains(s[i])) {
+                cout << "DELETED: " << s[i] << endl;
+                s.erase(i, 1); // erase non-alphanumeric characters
+                s[i] = (char) tolower(s[i]);
+            }
+
+            cout << "AFTER: " << s[i] << " " << i << endl;
+            
+        }
+
+        cout << s << endl;
+
+        for(int i = 0; i < s.length()/2; i++) {
+            if(s[i] != s[s.length() - 1 - i]) {
+                return false;
+            }
+        }
+        return true;
+
+    }
+};
