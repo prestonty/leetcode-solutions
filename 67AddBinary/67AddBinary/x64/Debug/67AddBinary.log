@@ -1,6 +1,0 @@
-﻿  67AddBinary.cpp
-C:\Users\prest\Documents\Computer Programming pluto\Leetcode\67AddBinary\67AddBinary\67AddBinary.cpp(19,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\prest\Documents\Computer Programming pluto\Leetcode\67AddBinary\67AddBinary\67AddBinary.cpp(22,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\prest\Documents\Computer Programming pluto\Leetcode\67AddBinary\67AddBinary\67AddBinary.cpp(29,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\prest\Documents\Computer Programming pluto\Leetcode\67AddBinary\67AddBinary\67AddBinary.cpp(30,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  67AddBinary.vcxproj -> C:\Users\prest\Documents\Computer Programming pluto\Leetcode\67AddBinary\x64\Debug\67AddBinary.exe
