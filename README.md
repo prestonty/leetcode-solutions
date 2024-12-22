@@ -1,7 +1,7 @@
 # Leetcode Winter Arc
 
 **Objective:** Solve 150 problems by the end of my co-op.  
-**Current Progress:** 50 problems solved as of Nov 9
+**Current Progress:** 70 problems solved as of Dec 22
 **Remaining Time:** 1.5 months
 
 ## Problem-Solving Topics to Master
