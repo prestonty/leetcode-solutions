@@ -3,7 +3,7 @@ class Solution:
         if memo[n] != -1:
             return memo[n]
 
-        # if it dont pass the vibe check
+        # if it dont pass the vibe check (base case)
         if n == 0 or n == 1:
             memo[n] = 1
             return 1
