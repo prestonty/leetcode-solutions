@@ -1,7 +1,7 @@
 # Leetcode Winter Arc
 
-**Objective:** Solve 150 problems by the end of my co-op.  
-**Current Progress:** 70 problems solved as of Dec 22
+**Objective:** Solve 150 problems by the end of my study term.  
+**Current Progress:** 84 problems solved as of Jan 16, 2025
 
 ## Problem-Solving Topics to Master
 
@@ -17,5 +17,10 @@
 10. Binary Search
 11. Dynamic Programming (DP)
 12. Recursion
+
+Timeline:
+Dec 22, 2024 - 70 problems solved
+
+Jan 16, 2025 - 84 problems solved
 
 ---
