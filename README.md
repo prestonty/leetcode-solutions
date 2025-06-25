@@ -1,7 +1,7 @@
 # Leetcode Summer Arc
 
-**Objective:** Solve 200 problems by the end of my coop term.
-**Current Progress:** 101 problems solved as of April 15, 2025
+**Objective:** Solve 230 problems by the end of my coop term.
+**Current Progress:** 117 problems solved as of June 4, 2025
 
 ## Problem-Solving Topics to Master
 
@@ -24,5 +24,7 @@ Dec 22, 2024 - 70 problems solved
 Jan 16, 2025 - 84 problems solved
 
 April 15, 2025 - 101 problems solved
+
+June 4, 2025 - 117 problems solved
 
 ---
